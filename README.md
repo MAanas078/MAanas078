@@ -9,11 +9,16 @@
       <img src="https://img.shields.io/badge/🌱-Currently%20Learning-00c853?style=for-the-badge" />
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/📫-Reach%20me%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <img src="https://img.shields.io/badge/🛠️-Portfolio-Looking%20Sharp-blueviolet?style=for-the-badge" />
+      <a href="https://www.linkedin.com/in/mohd-aanas" target="_blank">
+        <img src="https://img.shields.io/badge/📫-Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://mohdaanas.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐-Portfolio-blueviolet?style=for-the-badge&logo=netlify" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
