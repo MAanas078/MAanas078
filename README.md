@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohd Aanas</h1>
 <h3 align="center">An enthusiastic software developer from India</h3>
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Code-Passionate-blue?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Hackathon-Enthusiast-orange?style=for-the-badge&logo=hackclub" />
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india" />
+      <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge&logo=github" />
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
