@@ -112,17 +112,18 @@
   </a>
 </p>
 
-## 😂 Programming Joke???
+## 😂 Programming Joke:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" alt="funny gif">
+</p>
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td><img src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f41b.png" width="40" alt="bug emoji" /></td>
-      <td><strong>Why do programmers prefer dark mode?</strong><br>Because light attracts bugs! 💡🐛</td>
-    </tr>
-  </table>
-  
+  <img src="https://img.shields.io/badge/-💻_Why_do_programmers_prefer_dark_mode%3F-30363d?style=for-the-badge&logo=github&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-💡_Because_light_attracts_bugs!_🐛-30363d?style=for-the-badge&logo=bugatti&logoColor=white" />
+
 </div>
 
 
