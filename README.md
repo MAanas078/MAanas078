@@ -13,3 +13,12 @@
   <img src="https://img.shields.io/badge/Tech-Explorer-red?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Developer-Focused-yellow?style=for-the-badge&logo=visualstudiocode" />
 </p>
+
+- 👨‍💻 I’m Mohd Aanas, a passionate developer who turns 💡 ideas into real-world solutions.
+- 🚀 Currently exploring the MERN stack, DevOps, and real-time web applications.
+- 🎯 Always aiming to write clean, scalable, and production-ready code.
+- 🧠 Believer in continuous learning — every bug is a lesson, every feature a story.
+- 🤝 Love collaborating in hackathons and building open-source projects with awesome people.
+- 🎨 Creative at heart, logical by mind — merging both in every line of code.
+- 🌐 Exploring how technology can solve real-life problems and make the world better.
+
