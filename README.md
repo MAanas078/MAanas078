@@ -97,3 +97,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAanas078&theme=radical" />
 </p>
 
+## 🚀 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAanas078&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAanas078&layout=compact&theme=radical" height="165"/>
+</p>
+
+
