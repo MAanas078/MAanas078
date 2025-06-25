@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Hackathon-Enthusiast-orange?style=for-the-badge&logo=hackclub" />
   <img src="https://img.shields.io/badge/Tech-Explorer-red?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Developer-Focused-yellow?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 - 👨‍💻 I’m Mohd Aanas, a passionate developer who turns 💡 ideas into real-world solutions.
