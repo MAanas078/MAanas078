@@ -89,6 +89,6 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAanas078&theme=radical" alt="MAanas078 Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=MAanas078&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
