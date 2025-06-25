@@ -2,10 +2,14 @@
 <h3 align="center">An enthusiastic software developer from India</h3>
 
 
-
-<div>
-  <img src="https://cdn.dribbble.com/users/2069402/screenshots/6581243/media/9887cd75ec42247b13c68ea03799db68.gif" width="400"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
+  <div align="left">
+    <img src="https://cdn.dribbble.com/users/2069402/screenshots/6581243/media/9887cd75ec42247b13c68ea03799db68.gif" width="400"/>
+  </div>
+  
+
 
 
 
