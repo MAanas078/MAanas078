@@ -112,4 +112,11 @@
   </a>
 </p>
 
+<h3 align="center">😂 Programming Joke??</h3>
+
+<p align="center">
+  <em>Why do programmers prefer dark mode?</em><br />
+  <strong>Because light attracts bugs! 🐛💡</strong>
+</p>
+
 
