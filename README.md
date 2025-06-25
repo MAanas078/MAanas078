@@ -2,6 +2,7 @@
 <h3 align="center">An enthusiastic software developer from India</h3>
 
 
+<table width="100%">
   <tr>
     <td align="left">
       <img src="https://img.shields.io/badge/🚀-Building%20Next%20Big%20Thing-ff69b4?style=for-the-badge" />
@@ -12,6 +13,7 @@
       <img src="https://img.shields.io/badge/🛠️-Portfolio-Looking%20Sharp-blueviolet?style=for-the-badge" />
     </td>
   </tr>
+</table>
 
 
 
