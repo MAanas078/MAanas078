@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohd Aanas</h1>
-<h3 align="center">An enthusiastic software developer from India 🇮🇳</h3>
+<h3 align="center">An enthusiastic software developer from India</h3>
+
+<p align="center">
+  <a href="https://github.com/mohdaanas">
+    <img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india" />
+  </a>
+  <a href="https://github.com/mohdaanas?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Open%20Source-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
