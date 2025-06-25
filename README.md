@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohd Aanas</h1>
 <h3 align="center">An enthusiastic software developer from India</h3>
 
-<table width="100%">
+
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/Code-Passionate-blue?style=for-the-badge&logo=github" />
-      <img src="https://img.shields.io/badge/Hackathon-Enthusiast-orange?style=for-the-badge&logo=hackclub" />
+      <img src="https://img.shields.io/badge/🚀-Building%20Next%20Big%20Thing-ff69b4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🌱-Currently%20Learning-00c853?style=for-the-badge" />
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india" />
-      <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/📫-Reach%20me%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/🛠️-Portfolio-Looking%20Sharp-blueviolet?style=for-the-badge" />
     </td>
   </tr>
-</table>
+
 
 
 <div align="center">
