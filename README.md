@@ -5,7 +5,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/your-gif.gif" width="400" />
+<p align="left">
+  <a href="https://dribbble.com/shots/6581243-Digital-Marketing" target="_blank">
+    <img src="https://cdn.dribbble.com/users/2069402/screenshots/6581243/media/9887cd75ec42247b13c68ea03799db68.png" width="250" />
+  </a>
+</p>
 
 
 
