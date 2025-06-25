@@ -112,11 +112,18 @@
   </a>
 </p>
 
-<h3 align="center">😂 Programming Joke??</h3>
+## 😂 Programming Joke???
 
-<p align="center">
-  <em>Why do programmers prefer dark mode?</em><br />
-  <strong>Because light attracts bugs! 🐛💡</strong>
-</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td><img src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f41b.png" width="40" alt="bug emoji" /></td>
+      <td><strong>Why do programmers prefer dark mode?</strong><br>Because light attracts bugs! 💡🐛</td>
+    </tr>
+  </table>
+  
+</div>
+
 
 
