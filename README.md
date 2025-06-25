@@ -78,5 +78,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAanas078&show_icons=true&theme=radical" alt="mohdaanas GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAanas078&theme=radical" alt="mohdaanas streak stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdaanas&theme=radical" alt="GitHub Streak Stats" />
+
 </p>
