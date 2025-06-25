@@ -86,3 +86,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAanas078&layout=compact&theme=radical" alt="MAanas078 Top Languages" />
 </p>
 
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAanas078&theme=radical" alt="MAanas078 Streak Stats" />
+</p>
+
