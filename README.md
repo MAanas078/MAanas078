@@ -74,10 +74,15 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="scikit-learn" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAanas078&show_icons=true&theme=radical" alt="mohdaanas GitHub stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdaanas&theme=radical" alt="GitHub Streak Stats" />
-
 </p>
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAanas078&layout=compact&theme=radical" alt="MAanas078 Top Languages" />
+</p>
+
