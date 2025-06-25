@@ -104,4 +104,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAanas078&layout=compact&theme=radical" height="165"/>
 </p>
 
+## ☕ Support 
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+  </a>
+</p>
+
 
