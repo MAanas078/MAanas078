@@ -1,35 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohd Aanas</h1>
 <h3 align="center">An enthusiastic software developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/mohdaanas">
-    <img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india" />
-  </a>
-  <a href="https://github.com/mohdaanas?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Open%20Source-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 
-<table>
-  <tr>
-    <td width="40%">
-      <img src="https://cdn.dribbble.com/users/2069402/screenshots/6581243/media/9887cd75ec42247b13c68ea03799db68.gif" width="100%" />
-    </td>
-    <td>
-      <h1 align="left">Hi 👋, I'm Mohd Aanas</h1>
-      <h3 align="left">An enthusiastic software developer from India 🇮🇳</h3>
-      <p>
-        <a href="https://github.com/mohdaanas">
-          <img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india" />
-        </a>
-        <a href="https://github.com/mohdaanas?tab=repositories">
-          <img src="https://img.shields.io/badge/GitHub-Open%20Source-blue?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://cdn.dribbble.com/users/2069402/screenshots/6581243/media/9887cd75ec42247b13c68ea03799db68.gif" width="400"/>
+</div>
 
 
 
