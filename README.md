@@ -91,7 +91,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MAanas078&theme=radical&no-frame=true&column=6" />
 </p>
-## 🟩 GitHub Contribution Graph
+🟩 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAanas078&theme=radical" />
