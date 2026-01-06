@@ -17,87 +17,8 @@
       </a>
     </td>
   </tr>
-</table> -->
+</table>
 
-<p align="center">
-<svg width="420" height="520" viewBox="0 0 420 520" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Gradient Border -->
-  <defs>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00FFD5"/>
-      <stop offset="50%" stop-color="#7F5CFF"/>
-      <stop offset="100%" stop-color="#FF8A00"/>
-    </linearGradient>
-
-    <!-- Scanning Animation -->
-    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="50%" stop-color="#00FFD5" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Card -->
-  <rect x="10" y="10" rx="28" ry="28" width="400" height="500"
-        fill="#0d1117" stroke="url(#borderGrad)" stroke-width="4"/>
-
-  <!-- Profile Image -->
-  <clipPath id="circleView">
-    <circle cx="210" cy="140" r="70"/>
-  </clipPath>
-
-  <image
-    href="https://drive.google.com/uc?export=view&id=15GTbLpqQYvaaLJryXGerNILtJB1_-5Xa"
-    x="140"
-    y="70"
-    width="140"
-    height="140"
-    clip-path="url(#circleView)"
-  />
-
-  <!-- Scanning Line -->
-  <rect x="140" y="70" width="140" height="140" fill="url(#scanGrad)">
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 -140"
-      to="0 140"
-      dur="2s"
-      repeatCount="indefinite" />
-  </rect>
-
-  <!-- Name -->
-  <text x="210" y="260" text-anchor="middle"
-        fill="#ffffff" font-size="26" font-weight="bold">
-    Mohd Aanas
-  </text>
-
-  <!-- Subtitle -->
-  <text x="210" y="290" text-anchor="middle"
-        fill="#8b949e" font-size="14">
-    Full Stack Developer • SaaS Builder
-  </text>
-
-  <!-- Bottom Glow -->
-  <rect x="80" y="330" rx="16" ry="16" width="260" height="50"
-        fill="url(#borderGrad)" opacity="0.15"/>
-
-  <text x="210" y="362" text-anchor="middle"
-        fill="#00FFD5" font-size="14">
-    Open to Opportunities
-  </text>
-
-</svg>
-</p>
-
-
-
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
 
 
 
