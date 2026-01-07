@@ -74,11 +74,17 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="scikit-learn" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Streak
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MAanas078&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAanas078&show_icons=true&theme=radical" alt="mohdaanas GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=MAanas078&theme=radical&hide_border=true" />
 </p>
+
 
 ## 🧠 Top Languages
 
@@ -91,11 +97,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MAanas078&theme=radical&no-frame=true&column=6" />
 </p>
-🟩 GitHub Contribution Graph
+## 🟩 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAanas078&theme=radical" />
 </p>
+
 
 ## 🚀 GitHub Overview
 
