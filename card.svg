@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="420" viewBox="0 0 620 420">
+
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="0 -12"
+      dur="2s"
+      repeatCount="indefinite"
+      direction="alternate"/>
+
+    <image
+      href="pr.png"
+      x="10"
+      y="10"
+      width="600"
+      height="400"
+      rx="24"
+      ry="24"/>
+  </g>
+
+</svg>
