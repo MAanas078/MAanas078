@@ -20,6 +20,12 @@
 </table>
 
 
+<p align="center">
+  <img src="./pr.png" alt="Profile Image" width="600" />
+</p>
+
+
+
 
 
  🧑‍💻 About Me
