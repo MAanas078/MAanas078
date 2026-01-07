@@ -21,8 +21,9 @@
 
 
 <p align="center">
-  <img src="./pr.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/MAanas078/MAanas078/main/pr.gif" width="600" alt="Profile Animation" />
 </p>
+
 
 
 
