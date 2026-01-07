@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="./pr.png" alt="Profile Image" width="600" />
+  <img src="./pr.gif" width="600" />
 </p>
 
 
